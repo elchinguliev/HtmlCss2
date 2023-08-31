@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: deepskyblue;
+}
+.Header>li,
+p {
+    display: inline-block;
+    text-decoration: none;
+    width: 14%;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.Header>li>p {
+    font-size: 1.5em;
+    font-weight: 400;
+    color: #7B8894;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Header {
+    background-color: #35464F;
+    width: 90%;
+    margin: auto;
+    height: 150px;
+}
+.Header>li>p:hover {
+    color: #F6F8FA;
+    cursor: pointer;
+}
+.Class1 {
+    background-color: #F6F8FA;
+    width: 90%;
+    height: 124px;
+    margin: auto;
+    margin-top: 0;
+}
+
+.Class1 li {
+    display: inline-block;
+    width: 19%;
+    margin-top: 30px;
+    text-align: center;
+}
+.pClass {
+    display: inline-block;
+    width: 48%;
+    margin: auto;
+    color: #677D8C;
+    padding: 0%;
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.ButtonClass {
+    background-color: #4AB3E3;
+    color: white;
+    font-size: 2em;
+    width: 200px;
+    height: 26px;
+    text-align: center;
+    padding: 8px;
+    font-weight: bold;
+    padding-left: 15px;
+    margin-left: 45px;
+    border-radius: 30px;
+}
+.count {
+    width: 30%;
+    margin-left: 20px;
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #F8F9FA;
+    background-color: #D3DBE0;
+    border-radius: 40%;
+}
+
+tableClass1 {
+    width: 80%;
+    margin: auto;
+    background-color: #FEFEFE;
+    margin-top: 100px;
+    border: 0.8px solid #CACFD0;
+    border-radius: 5px;
+}
+
+.NameTh1 {
+    text-align: left;
+    padding-left: 25px;
+    width: 350px;
+}
+
+tr>th {
+    font-size: 2em;
+    text-align: center;
+    font-weight: bold;
+    height: 80px;
+    color: #5D7585;
+}
+
+th{
+    padding: 10px;
+    border-bottom: 1px solid #CACFD0;
+    border-right: 1px solid #CACFD0;
+}
+
+tr>td {
+    font-size: 2em;
+    text-align: center;
+    font-weight: bold;
+    height: 60px;
+    margin-left: 15px;
+    border-bottom: 1px solid #CACFD0;
+    padding: 10px;
+}
+
+.tdS {
+    font-size: 1.5em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #617888;
+}
+
+.NameTd{
+    text-align: left;
+}
+
+.tdName>img {
+    width: 25%;
+    height: 180%;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 25px;
+    text-align: left;
+}
+
+.tdName>pre {
+    display: inline-block;
+    margin-left: 15px;
+    color: #617888;
+    font-size: 3.5em;
+    font-weight: 350;
+}
+
+.tdTClass{
+    font-size: 1.5em;
+}
+
+.tdTClass> pre{
+    width: 50%;
+    margin: auto;
+    color: #FFFBFC;
+    border-radius: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+tr:hover{
+    background-color: #3CA9E4;
+    color:#F0F3F7 ;
+}
+
+
+.icon-container {
+    font-size: 24px;
+    margin : auto;
+    margin-left: 50%;
+}
+.searchingDiv{
+    font-size: 24px;
+
+    margin-left:25% ;
+    margin-top: -3.5%;
+}
+.searching2Div{
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 32.6%;
+    margin-top: -3.5%;
+}
+.dropdown{
+    font-size: 30px;
+    
+    font-weight: bold;
+    margin-left: 55%;
+    margin-top: -2%;
+}
+
+.saveList {
+    font-size: 24px; 
+    color: blue;
+    font-weight: bold; 
+    text-align: center; 
+    margin-left: 30%; 
+    margin-top: -1.7%;
+}
+
+
+
+
+
+
