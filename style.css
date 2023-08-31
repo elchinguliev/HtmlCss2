@@ -129,14 +129,7 @@ tr>td {
     text-align: left;
 }
 
-.tdName>img {
-    width: 25%;
-    height: 180%;
-    border-radius: 50%;
-    margin: auto;
-    margin-top: 25px;
-    text-align: left;
-}
+
 
 .tdName>pre {
     display: inline-block;
